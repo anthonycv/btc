@@ -1,5 +1,6 @@
 ## Installation
 - Instalar el framework y dependencias `composer install`
+- Generar el key de artisan `php artisan key:generate`
 - Crear el archivo .env en la raiz usando el .env.example como ejemplo
 - Configurar el virtual host a usar
 - Correr las migraciones `php artisan migrate`
